@@ -39,3 +39,27 @@ title: "Building Your Core Group"
     *   No
 
 10. When I volunteer, I like to [____________________].
+
+## Ian Hawke
+
+I believe that...
+
+1. Abstraction and finding a core principle.
+
+2. Blue-sky thinking and rapid, broad-stroke planning.
+
+3. Yes, I'm good at thinking about details: I'm less good at acting on them.
+
+4. Tend to focus or care too narrowly to see the *whole* big picture.
+
+5. I'm good at making partial plans; less good at carrying them through.
+
+6. Yes; of course, planning carefully is not the same as planning well.
+
+7. No; acting nearly always comes third or fourth on the list.
+
+8. Yes; although things are often given time for the subconscious to sort out, rather than being "weighed".
+
+9. Yes; but I doubt my intuition, usually.
+
+10. Support an agreed plan; contribute verbally, but when agreed just do it.

@@ -18,3 +18,7 @@ go. Try one of the following as a guide. Just fill in the blanks:
 *   I see a street where… [____________________]
 
 *   I see a (fill in the blank with whatever it is you are trying to change) where… [____________________]
+
+## Ian Hawke
+
+I see a group that helps people to work out whether they *should* do something with code as well as whether they *could*: to think about the societal consequences of building and using a research code.

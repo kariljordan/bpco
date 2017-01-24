@@ -23,3 +23,17 @@ title: "Building Your Core Group"
 
 6.  Who has these?
     [____________________]
+
+## Ian Hawke
+
+1. A doer, and a persuader.
+
+2. Broad algorithmic training and imagination.
+
+3. Ethics training and experience.
+
+4. Researchers in humanities, social sciences, statisticians, medics, etc.
+
+5. Links to funders for whom this is important?
+
+6. Research office, ethics committee, other researchers.

@@ -29,3 +29,19 @@ What do we get rid of?
 7.  Make a commitment to reviewing your behavior daily:
     each day at [____________________] *(write in the time)*
     I will spend a few minutes reviewing how I am doing at changing this behavior.
+
+## Ian Hawke
+
+1. Internal focus: solitary consideration of a problem and its solution without talking it through or checking it against external reality.
+
+2. Easy for an introvert; minimizes conflict and criticism.
+
+3. Too easy not to act on any of my conclusions.
+
+4. Communicate to more people, especially from the people who are or will be affected by the problem and/or the potential solution.
+
+5. Regular social occasions (lunch and coffee breaks) at work. Must expand beyond my usual circle.
+
+6. My partner.
+
+7. On the walk home from work.
