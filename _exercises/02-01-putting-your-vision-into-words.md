@@ -18,3 +18,7 @@ go. Try one of the following as a guide. Just fill in the blanks:
 *   I see a street where… [____________________]
 
 *   I see a (fill in the blank with whatever it is you are trying to change) where… [____________________]
+
+## Kate Hertweck
+
+I see a Software Carpentry Steering Committee that develops a clear vision for the values guiding the organization and model of leadership for how those values are communicated and implemented through policy.
