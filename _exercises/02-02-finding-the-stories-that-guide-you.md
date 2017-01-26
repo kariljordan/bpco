@@ -28,3 +28,11 @@ This exercise is one way to start to learn and tell your story.
     Think about why you chose this story.
 
     [____________________]
+
+
+## Rayna Harris
+
+1. Currently, I'm a little fed up with demotivating learning enviornments. I'm tired of hearing things like "scare them on the first day" and "your way of doing things is inferior to mine because I said so". 
+2. This matters to me because it turns people away from learning and creates unnecessary resentment.
+3. I've heard statments these and similar statments for years, and I think its really unnecessary. I look forward to a day when there are no bullies at the front of the classroom. 
+4. The thing I worry about is that I do can have strong opinions about how things should be done, and I would like to not turn into the professors I despise. 
