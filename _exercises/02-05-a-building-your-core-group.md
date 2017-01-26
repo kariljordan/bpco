@@ -54,7 +54,8 @@ title: "Building Your Core Group"
 
 6. I plan, but not carefully!  
 
-7. Not so much.  I usually plan at least a little bit.  
+7. I usually plan at least a little bit.  That said, for certain things my plan is: 
+	"Start working. See what happens. Organize that. Make a real plan." 
 
 8. I weigh decisions carefully; it takes me a long time to make big decisions.  
 

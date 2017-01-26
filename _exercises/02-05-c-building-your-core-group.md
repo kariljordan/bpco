@@ -52,8 +52,11 @@ title: "Building Your Core Group"
 
 3. People at all SWC/DC experience + involvement levels (new instructors, local 
 	community leaders, staff, steering committee members), from different geographical 
-	locations (esp. non-North America), and a diversity of academic institutions 
-	and experiences.  
+	locations (esp. non-North America), and a diversity of academic institutions (research 
+	universities + small schools) 
+	and experiences (undergrad, maybe even high school thru late-career).  Representatives 
+	of organizations that advocate for underrepresented (race, gender, economic background) 
+	groups in science + tech.  
 
 4. Not sure what this question is asking - I'd say anyone who identifies with 
 	the labels I've described.  
@@ -63,7 +66,7 @@ title: "Building Your Core Group"
 6. Current committee membership is a good start.  I know of others in the organization, 
 	not on the committee who could be representatives of these groups.  
 
-7. Not sure yet. 
+7. Organizations representing underrepresented groups (does that sentence even parse?)
 
 8. Belinda, Anelda, Kari, Raniere...
 

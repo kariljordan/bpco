@@ -51,7 +51,8 @@ Comments: [____________________]
 
 6. My ultimate goal is to create a supportive community (see 7.) so if I could 
 	be shown that these beliefs do *not* help achieve that goal, I would be 
-	willing to consider alternatives.  It would be a hard sell!  
+	willing to consider alternatives.  However, given that these beliefs are 
+	intrinsic to what a supportive community is (in my mind), it would be a tough sell!  
 
 7. These beliefs will help the group be welcoming.  
 
