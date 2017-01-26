@@ -42,7 +42,7 @@ title: "Building Your Core Group"
 
 ## Christina
 
-1. I am good at taking disparate elements or complicated ideas and making meaning out of them. 
+1. I am good at taking disparate elements or complicated ideas, organizing them, and making meaning out of them. 
 
 2. My default mode of operation is: have ideas, talk to people about them, then go away and construct something on my own.
 
