@@ -18,3 +18,7 @@ go. Try one of the following as a guide. Just fill in the blanks:
 *   I see a street where… [____________________]
 
 *   I see a (fill in the blank with whatever it is you are trying to change) where… [____________________]
+
+##
+Rayna Harris
+I see an interdiscipinary research group that extends beyong the typical STEM fields that uses the best practice for conducting and disseminating reesarch at the highest standards of excellence.
