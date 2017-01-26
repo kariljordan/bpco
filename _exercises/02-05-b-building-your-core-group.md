@@ -23,3 +23,17 @@ title: "Building Your Core Group"
 
 6.  Who has these?
     [____________________]
+
+## Christina
+
+1. an active/decisive person, a salesperson or PR person
+
+2. a smattering of technical and teaching knowledge, ability to facilitate discussion
+
+3. outreach/communications practice, drawing people into leadership roles themselves
+
+4. not sure. 
+
+5. ways to gather and curate feedback, an IT specialist
+
+6. Beth or Erin?  Not sure. 

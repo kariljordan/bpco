@@ -32,7 +32,7 @@ What do we get rid of?
 
 ## Christina
 
-1.  If I don't do this, it won't get done correctly.
+1.  If I don't do this, it won't get done well (or at all).
  
 2.  I have control.
  
