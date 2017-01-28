@@ -152,3 +152,10 @@ This exercise is one way to start to learn and tell your story.
 3. Three years ago, I realized that I helped create an ecosystem that I, myself, did not feel welcome in. I was working alongside organizers who looked liked me and spoke like me, but I didn't feel as if I could truly be myself around them. Years went by before I took a step back and critically looked at what I was contributing to and fully understood why I often had pain of anxiety and discomfort whenever I was working. It was a weird discovery, but it forced me to pay attention to feelings (emotional and physical) a lot more. It also made me realize that there were probably other members in that ecosystem who felt the same way.
 
 4. I wanted to learn more about what makes environemts truly "inclusive" and understand the framework around them. Working with the right group of people involves so many feelings. Everyone is different on so many levels, but all deserve to be their truest form of self. 
+
+## Rayna Harris
+
+1. Currently, I'm a little fed up with demotivating learning enviornments. I'm tired of hearing things like "scare them on the first day" and "your way of doing things is inferior to mine because I said so". 
+2. This matters to me because it turns people away from learning and creates unnecessary resentment.
+3. I've heard statments these and similar statments for years, and I think its really unnecessary. I look forward to a day when there are no bullies at the front of the classroom. 
+4. The thing I worry about is that I do can have strong opinions about how things should be done, and I would like to not turn into the professors I despise. 
