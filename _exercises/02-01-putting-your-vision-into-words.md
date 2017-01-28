@@ -36,7 +36,9 @@ into charities that work on these causes effectively.
 
 ## Ian Hawke
 
-I see a group that helps people to work out whether they *should* do something with code as well as whether they *could*: to think about the societal consequences of building and using a research code.
+I see a group that helps people to work out whether they *should* do
+something with code as well as whether they *could*: to think about
+the societal consequences of building and using a research code.
 
 ## Katy Huff
 
@@ -63,17 +65,23 @@ in science, technology, engineering, and mathematics.
 
 ## Greg Wilson
 
-I see a loosely-knit group of people who care about getting people from under-represented communities into tech,
-who are organizing grassroots groups and/or working on innovative recruiting projects in companies,
-and who talk regularly online and meet once a year in person to exchange ideas and support one another.
+I see a loosely-knit group of people who care about getting people
+from under-represented communities into tech, who are organizing
+grassroots groups and/or working on innovative recruiting projects in
+companies, and who talk regularly online and meet once a year in
+person to exchange ideas and support one another.
 
 ## Kate Hertweck
 
-I see a Software Carpentry Steering Committee that develops a clear vision for the values guiding the organization and model of leadership for how those values are communicated and implemented through policy.
+I see a Software Carpentry Steering Committee that develops a clear
+vision for the values guiding the organization and model of leadership
+for how those values are communicated and implemented through policy.
 
 ## Kat Barrett
 
-I see a group of curious and caring people at all skill levels who are working together to build a space where anyone can practice digital fabrication, woodworking, code, and electronics. 
+I see a group of curious and caring people at all skill levels who are
+working together to build a space where anyone can practice digital
+fabrication, woodworking, code, and electronics.
 
 ## Rayna Harris
 
@@ -83,4 +91,5 @@ disseminating reesarch at the highest standards of excellence.
 
 ## Aleksandra Pawlik
 
-Society in which it is not the age that defines whether you have a right to have your own opinion that will be respected by others.
+Society in which it is not the age that defines whether you have a
+right to have your own opinion that will be respected by others.

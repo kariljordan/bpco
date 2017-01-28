@@ -7,146 +7,116 @@ title: "Building Your Core Group"
 ## What Else Do You Need?
 
 1.  Knowing your personality, what other kinds of personalities would be most useful in the core group?
-    [____________________]
-    People making decisions fast and going with them.
+
+    *   **Jorge Aranda:** Outgoing people, people with a strong social network in my community
+
+    *   **Kat Barrett:** Open-minded, but also patient. Willing to take the time to build strong relationships with external leaders.
+
+    *   **Ian Hawke:** A doer, and a persuader.
+
+    *   **Kate Hertweck:** Creativity, diverse perspectives (other cultures, educational backgrounds)
+
+    *   **Kari L. Jordan:* Critical thinkers, those with a mind for marketing, and those who enjoy philanthropy. 
+
+    *   **Christina Koch:** an active/decisive person, a salesperson or PR person
+
+    *   **Aleksandra Pawlik:** People making decisions fast and going with them.
+
+    *   **Greg Wilson:** People who are more patient and thoughtful,
+        who enjoy careful background research,
+        and who care more about getting the right answer than getting a plausible answer quickly.
 
 2.  What special knowledge do you have?
-    [____________________]
-    How learning and teaching may be affected by various factors
+
+    *   **Jorge Aranda:** Research skills, some personal experience and invested effort into frugality and charity work
+
+    *   **Kat Barrett:** I don't think I have any special knowledge, but maybe. I'll think more about this!
+
+    *   **Ian Hawke:** Broad algorithmic training and imagination.
+
+    *   **Kate Hertweck:** Skills to help negotiate answers to group dilemmas, ability to differentiate 
+
+    *   **Kari L. Jordan:* Knowledge related to diverse populations and STEM-Education/Careers.
+
+    *   **Christina Koch:** a smattering of technical and teaching knowledge, ability to facilitate discussion
+
+    *   **Aleksandra Pawlik:** How learning and teaching may be affected by various factors
+
+    *   **Greg Wilson:** I have no special knowledge when compared to other likely participants in this group.
 
 3.  What special knowledge or skills do you lack that the core group needs?
-    [____________________]
-    Knowledge of organisations and systems supporting education
+
+    *   **Jorge Aranda:** Persuasion, how to establish a long-lived group, negotiating group dynamics
+
+    *   **Kat Barrett:** Networking - particularly when it comes to fundraising and sponsorship.
+
+    *   **Ian Hawke:** Ethics training and experience.
+
+    *   **Kate Hertweck:** Detail-oriented knowledge about areas I lack (finance, legal, etc)
+
+    *   **Kari L. Jordan:* Fundraising
+
+    *   **Christina Koch:** outreach/communications practice, drawing people into leadership roles themselves
+
+    *   **Aleksandra Pawlik:** Knowledge of organisations and systems supporting education
+
+    *   **Greg Wilson:** I lack contacts:
+        I only know a handful of leaders of organizations of the kind I want to bring together,
+        and only a couple of possible funders.
 
 4.  Who has this knowledge or these skills?
-    [____________________]
-    People working in education and funding it?
+
+    *   **Jorge Aranda:** Salespeople, community organizers
+
+    *   **Kat Barrett:** 
+
+    *   **Ian Hawke:** Researchers in humanities, social sciences, statisticians, medics, etc.
+
+    *   **Kate Hertweck:** Hopefully other people elected to the Steering Committee?
+
+    *   **Kari L. Jordan:* That remains to be seen. People I know who are good at fundraising already have jobs.
+
+    *   **Christina Koch:** not sure. 
+
+    *   **Aleksandra Pawlik:** People working in education and funding it?
+
+    *   **Greg Wilson:** The people I already know may be able to make introductions.
 
 5.  What other skills or areas of knowledge are needed in the core group?
-    [____________________]
-    Children and young people psychology?
+
+    *   **Jorge Aranda:** Knowledge of local social networks and power structures
+
+    *   **Kat Barrett:** Someone who can ground the group and make sure everyone understands the mission.
+
+    *   **Ian Hawke:** Links to funders for whom this is important?
+
+    *   **Kate Hertweck:** Leadership and communication (especially regarding subcommittees)
+
+    *   **Kari L. Jordan:* Marketing (digital and print) and curriculum development.
+
+    *   **Christina Koch:** ways to gather and curate feedback, an IT specialist
+
+    *   **Aleksandra Pawlik:** Children and young people psychology?
+
+    *   **Greg Wilson:** The core group needs people who can organize an annual event
+        and keep an online discussion lively.
 
 6.  Who has these?
-    [____________________]
 
-## Jorge Aranda
+    *   **Jorge Aranda:** Politicians, well-established locals
 
-1. Outgoing people, people with a strong social network in my community
+    *   **Kat Barrett:** 
 
-2. Research skills, some personal experience and invested effort into frugality and charity work
+    *   **Ian Hawke:** Research office, ethics committee, other researchers.
 
-3. Persuasion, how to establish a long-lived group, negotiating group dynamics
+    *   **Kate Hertweck:** Hopefully staff? Other consultants?
 
-4. Salespeople, community organizers
+    *   **Kari L. Jordan:* Brenda Nathan is great at marketing, but she overcommits. I'm not sure about curriculum development.
 
-5. Knowledge of local social networks and power structures
+    *   **Christina Koch:** Beth or Erin?  Not sure. 
 
-6. Politicians, well-established locals
+    *   **Aleksandra Pawlik:** Psychologists?
 
-## Ian Hawke
-
-1. A doer, and a persuader.
-
-2. Broad algorithmic training and imagination.
-
-3. Ethics training and experience.
-
-4. Researchers in humanities, social sciences, statisticians, medics, etc.
-
-5. Links to funders for whom this is important?
-
-6. Research office, ethics committee, other researchers.
-
-## Christina Koch
-
-1. an active/decisive person, a salesperson or PR person
-
-2. a smattering of technical and teaching knowledge, ability to facilitate discussion
-
-3. outreach/communications practice, drawing people into leadership roles themselves
-
-4. not sure. 
-
-5. ways to gather and curate feedback, an IT specialist
-
-6. Beth or Erin?  Not sure. 
-
-## Greg Wilson
-
-1.  People who are more patient and thoughtful,
-    who enjoy careful background research,
-    and who care more about getting the right answer than getting a plausible answer quickly.
-
-2.  I have no special knowledge when compared to other likely participants in this group.
-
-3.  I lack contacts:
-    I only know a handful of leaders of organizations of the kind I want to bring together,
-    and only a couple of possible funders.
-
-4.  The people I already know may be able to make introductions.
-
-5.  The core group needs people who can organize an annual event
-    and keep an online discussion lively.
-
-6.  Given the central purpose of the organization,
-    I believe many of the core participants will have these skills.
-    (Many of them will be organizers themselves.)
-    
-## Kate Hertweck
-
-1.  Knowing your personality, what other kinds of personalities would be most useful in the core group?
-    
-    Creativity, diverse perspectives (other cultures, educational backgrounds)
-
-2.  What special knowledge do you have?
-    
-    Skills to help negotiate answers to group dilemmas, ability to differentiate 
-
-3.  What special knowledge or skills do you lack that the core group needs?
-    
-    Detail-oriented knowledge about areas I lack (finance, legal, etc)
-
-4.  Who has this knowledge or these skills?
-    
-    Hopefully other people elected to the Steering Committee?
-
-5.  What other skills or areas of knowledge are needed in the core group?
-    
-    Leadership and communication (especially regarding subcommittees)
-
-6.  Who has these?
-    
-    Hopefully staff? Other consultants?
-
-## Kat Barrett
-
-1. Open-minded, but also patient. Willing to take the time to build strong relationships with external leaders.
-
-2. I don't think I have any special knowledge, but maybe. I'll think more about this!
-
-3. Networking - particularly when it comes to fundraising and sponsorship.
-
-4. 
-
-5. Someone who can ground the group and make sure everyone understands the mission.
-
-6. 
-
-## Kari L. Jordan
-
-1.  Knowing your personality, what other kinds of personalities would be most useful in the core group?
-    Critical thinkers, those with a mind for marketing, and those who enjoy philanthropy. 
-2.  What special knowledge do you have?
-    Knowledge related to diverse populations and STEM-Education/Careers.
-3.  What special knowledge or skills do you lack that the core group needs?
-    Fundraising
-4.  Who has this knowledge or these skills?
-    That remains to be seen. People I know who are good at fundraising already have jobs.
-5.  What other skills or areas of knowledge are needed in the core group?
-    Marketing (digital and print) and curriculum development.
-6.  Who has these?
-    Brenda Nathan is great at marketing, but she overcommits. I'm not sure about curriculum development.
-
-## Aleksandra Pawlik
-
-Psychologists?
+    *   **Greg Wilson:** Given the central purpose of the organization,
+        I believe many of the core participants will have these skills.
+        (Many of them will be organizers themselves.)

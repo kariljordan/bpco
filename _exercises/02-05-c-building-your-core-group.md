@@ -8,7 +8,30 @@ title: "Building Your Core Group"
 
 1.  What are the organization's essential principles?
     (What are the deal-breaker agreements you require for any member of the core group?)
-    [____________________]
+
+    *   **Jorge Aranda:** We have the power and the duty to help alleviate suffering.
+        We are not saints, and we all try to do good at different degrees according to our personal journeys.
+
+    *   **Ian Hawke:** All of
+        *   Ethical thinking about our code and algorithms is essential;
+        *   Training in this is possible and should cover as many groups as possible;
+        *   The answers will keep changing, so we must constantly re-evaluate what and how we train,
+            and how we apply the lessons to our own work.
+
+    *   **Kate Hertweck:** Commitment to open availability of materials,
+        Code of Conduct, model of teaching (and appropriate lessons)
+
+    *   **Kari L. Jordan:** Leadership, Excellence, Ingenuity, Civil Engagement, Financial Responsibility
+
+    *   **Christina Koch:** You are familiar with Software/Data Carpentry lessons and teaching practices 
+	(have read them, attended a workshop, helped or taught at a workshop).  
+	Your main goal is not to advance your own interests, but to work for 
+	the benefit of the community (acknowledging that these will sometimes overlap). 
+	Agreement to support and abide by the SWC/DC Code of Conduct.  
+
+    *   **Greg Wilson:** The essential principle is belief that tech should be truly open to all,
+        not just in the negative sense ("there's no rule that says you can't take part")
+        but in the positive sense ("it's truly accessible and welcoming to everyone").
 
 2.  What skills does the organization need?
     *   Accounting
@@ -17,84 +40,41 @@ title: "Building Your Core Group"
     *   Community support
     *   Special knowledge of [____________________]
     *   People who can recruit
-    *   Other [____________________]
+u    *   Other [____________________]
     *   And more other [____________________]
+
+    *   **Jorge Aranda:** Legal help on how to set up gift matching programs. Fundraising.
+        HR help. Outreach. Pretty much everything!
+
+    *   **Ian Hawke:** Recruitment, community building.
+
+    *   **Kate Hertweck:**
+	*   Accounting (?)
+	*   Legal help (?)
+	*   Community support
+	*   Special knowledge of higher-level sysadmin/git/etc than we teach
+
+    *   **Kari L. Jordan:** Someone who is good at raising BIG MONEY; grant writing experience.
+
+    *   **Christina Koch:** Community support; People who can recruit
+
+    *   **Greg Wilson:** The organization needs fundraising and recruitment.
 
 3.  What are the groups or communities (old people, young people, tenants, home owners,
     Blacks, Italians, Catholics, Latinos, business people, labor unions, etc.) you
-    eventually want in your organization? [____________________]
+    eventually want in your organization?
 
-4.  Who is representative of these groups?
-    [____________________]
+    *   **Jorge Aranda:** Almost everybody in developed nations could help --- not split among racial nor occupational lines, as I see it
 
-5.  Do you have someone from all of these core groups in your organization?
-    *   Yes
-    *   No
+    *   **Ian Hawke:** All research coding groups: in academia from UG up to professoriate, and in industry.
 
-6.  Who are they? [____________________]
+    *   **Kate Hertweck:** Underrepresented groups in science and other
+        academic disciplines, international members, all levels of
+        education from post-secondary on up to professionals.
 
-7.  Who is missing? [____________________]
+    *   **Kari L. Jordan:** Girls (Native American, Hispanic/Latina, African American); Middle school age; Low income communities 
 
-8.  Who might represent these missing groups? [____________________]
-
-9.  If you don't know, how can you find someone who might?
-    [____________________]
-
-## Jorge Aranda
-
-1. We have the power and the duty to help alleviate suffering.
-   We are not saints, and we all try to do good at different degrees according to our personal journeys.
-
-2. Legal help on how to set up gift matching programs. Fundraising. HR help. Outreach. Pretty much everything!
-
-3. Almost everybody in developed nations could help --- not split among racial nor occupational lines, as I see it
-
-4. N/A
-
-5. N/A
-
-6. N/A
-
-7. N/A
-
-8. N/A
-
-9. N/A
-
-## Ian Hawke
-
-1.  All of
-    * Ethical thinking about our code and algorithms is essential;
-    * Training in this is possible and should cover as many groups as possible;
-    * The answers will keep changing, so we must constantly re-evaluate what and how we train, and how we apply the lessons to our own work.
-
-2.  Recruitment, community building.
-
-3.  All research coding groups: in academia from UG up to professoriate, and in industry.
-
-4.  Those will to take part and deliver training will be representative.
-
-5.  No.
-
-6.  Right now I've only thought about academic people, mostly PGs and faculty.
-
-7.  Junior academics, industry.
-
-8.  Don't know yet.
-
-9.  Use contacts, word-of-mouth.
-
-## Christina Koch
-
-1. You are familiar with Software/Data Carpentry lessons and teaching practices 
-	(have read them, attended a workshop, helped or taught at a workshop).  
-	Your main goal is not to advance your own interests, but to work for 
-	the benefit of the community (acknowledging that these will sometimes overlap). 
-	Agreement to support and abide by the SWC/DC Code of Conduct.  
-
-2. Community support; People who can recruit
-
-3. People at all SWC/DC experience + involvement levels (new instructors, local 
+    *   **Christina Koch:** People at all SWC/DC experience + involvement levels (new instructors, local 
 	community leaders, staff, steering committee members), from different geographical 
 	locations (esp. non-North America), and a diversity of academic institutions (research 
 	universities + small schools) 
@@ -102,130 +82,100 @@ title: "Building Your Core Group"
 	of organizations that advocate for underrepresented (race, gender, economic background) 
 	groups in science + tech.  
 
-4. Not sure what this question is asking - I'd say anyone who identifies with 
+    *   **Greg Wilson:** We want groups like Black Girls Code,
+        SACNAS,
+        and the apprenticeship program at Pinterest to take part.
+
+4.  Who is representative of these groups?
+
+    *   **Jorge Aranda:** N/A
+
+    *   **Ian Hawke:** Those will to take part and deliver training will be representative.
+
+    *   **Kate Hertweck:** Undergrads, grad students, postdocs, faculty, research associates,
+        administrators, librarians, etc from around the world
+
+    *   **Kari L. Jordan:** I don't understand this question.
+
+    *   **Christina Koch:** Not sure what this question is asking - I'd say anyone who identifies with 
 	the labels I've described.  
 
-5. Within SWC/DC as a whole, probably most of them.  On the mentorship committee, no. 
+    *   **Greg Wilson:** The founders/leaders of these groups are their representatives.
 
-6. Current committee membership is a good start.  I know of others in the organization, 
+5.  Do you have someone from all of these core groups in your organization?
+
+    *   **Jorge Aranda:** N/A
+
+    *   **Ian Hawke:** No.
+
+    *   **Kate Hertweck:** Yes-ish.
+
+    *   **Kari L. Jordan:** No (but it's possible).
+
+    *   **Christina Koch:** Within SWC/DC as a whole, probably most of them.  On the mentorship committee, no. 
+
+    *   **Greg Wilson:** We do not have people from all of these groups in our organization yet.
+
+6.  Who are they?
+
+    *   **Jorge Aranda:** N/A
+
+    *   **Ian Hawke:** Right now I've only thought about academic people, mostly PGs and faculty.
+
+    *   **Kate Hertweck:** Steering Committee is fairly representative,
+        instructors are fairly well dispersed (provided they stay connected)
+
+    *   **Christina Koch:** Current committee membership is a good start.
+        I know of others in the organization, 
 	not on the committee who could be representatives of these groups.  
 
-7. Organizations representing underrepresented groups (does that sentence even parse?)
+    *   **Greg Wilson:** The people we *do* have are a handful of those who helped organize the 2015 meeting
+        (see <http://t3summit.org>).
 
-8. Belinda, Anelda, Kari, Raniere...
+7.  Who is missing?
 
-9. Talk to the people above. 
+    *   **Jorge Aranda:** N/A
 
-## Greg Wilson
+    *   **Ian Hawke:** Junior academics, industry.
 
-1.  The essential principle is belief that tech should be truly open to all,
-    not just in the negative sense ("there's no rule that says you can't take part")
-    but in the positive sense ("it's truly accessible and welcoming to everyone").
+    *   **Kate Hertweck:** Less interaction in leadership from international groups than seems appropriate.
 
-2.  The organization needs fundraising and recruitment.
+    *   **Christina Koch:** Organizations representing underrepresented groups (does that sentence even parse?)
 
-3.  We want groups like Black Girls Code,
-    SACNAS,
-    and the apprenticeship program at Pinterest to take part.
+    *   **Greg Wilson:** We are missing representatives from dozens of other groups.
 
-4.  The founders/leaders of these groups are their representatives.
+8.  Who might represent these missing groups?
 
-5.  We do not have people from all of these groups in our organization yet.
+    *   **Jorge Aranda:** N/A
 
-6.  The people we *do* have are a handful of those who helped organize the 2015 meeting
-    (see <http://t3summit.org>).
+    *   **Ian Hawke:** Don't know yet.
 
-7.  We are missing representatives from dozens of other groups.
+    *   **Kate Hertweck:** Regional leaders from those areas?
 
-8.  As above,
-    we hope their founders/leaders will represent them.
-    We also hope to involve some of the participants in those groups,
-    i.e.,
-    we would like to have both someone who organized PyLadies
-    and someone who was helped by PyLadies.
+    *   **Christina Koch:** Belinda, Anelda, Kari, Raniere...
 
-9.  This is going to have to be word of mouth and personal contact:
-    there isn't an organization yet that binds groups like this together
-    (or if there is, we haven't found it).
-    The [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
-    is a likely starting point as well.
-    
-## Kate Hertweck
-
-1.  What are the organization's essential principles?
-    (What are the deal-breaker agreements you require for any member of the core group?)
-    
-    Commitment to open availability of materials, Code of Conduct, model of teaching (and appropriate lessons)
-
-2.  What skills does the organization need?
-    *   Accounting (?)
-    *   Legal help (?)
-    *   Community support
-    *   Special knowledge of higher-level sysadmin/git/etc than we teach
-
-3.  What are the groups or communities (old people, young people, tenants, home owners,
-    Blacks, Italians, Catholics, Latinos, business people, labor unions, etc.) you
-    eventually want in your organization? 
-    
-Underrepresented groups in science and other academic disciplines, international members, all levels of education from post-secondary on up to professionals.
-
-4.  Who is representative of these groups?
-    
-    Undergrads, grad students, postdocs, faculty, research associates, administrators, librarians, etc from around the world
-
-5.  Do you have someone from all of these core groups in your organization?
-    *   Yes-ish
-
-6.  Who are they? 
-
-Steering Committee is fairly representative, instructors are fairly well dispersed (provided they stay connected)
-
-7.  Who is missing? 
-
-Less interaction in leadership from international groups than seems appropriate
-
-8.  Who might represent these missing groups? 
-
-Regional leaders from those areas?
+    *   **Greg Wilson:** As above,
+        we hope their founders/leaders will represent them.
+        We also hope to involve some of the participants in those groups,
+        i.e.,
+        we would like to have both someone who organized PyLadies
+        and someone who was helped by PyLadies.
 
 9.  If you don't know, how can you find someone who might?
-    
-Ask instructors of workshops in those places.
 
-(My apologies, I feel like I was really starting to lose focus in these last few sections)
-    
-## Kari L. Jordan
+    *   **Jorge Aranda:** N/A
 
-1.  What are the organization's essential principles?
-    (What are the deal-breaker agreements you require for any member of the core group?)
-    Leadership
-    Excellence
-    Ingenuity
-    Civil Engagement
-    Financial Responsibility
+    *   **Ian Hawke:** Use contacts, word-of-mouth.
 
-2.  What skills does the organization need?
-    Someone who is good at raising BIG MONEY
-    Grant writing experience
+    *   **Christina Koch:** Talk to the people above. 
 
-3.  What are the groups or communities (old people, young people, tenants, home owners,
-    Blacks, Italians, Catholics, Latinos, business people, labor unions, etc.) you
-    eventually want in your organization? [____________________]
-    Girls (Native American, Hispanic/Latina, African American)
-    Middle school age
-    Low income communities 
+    *   **Kate Hertweck:** Ask instructors of workshops in those places.
 
-4.  Who is representative of these groups?
-    I don't understand this question.
+    *   **Kari L. Jordan:** Network with who I know (NSBE/SHPE/AISES).
 
-5.  Do you have someone from all of these core groups in your organization?
-    *   No (but it's possible)
-
-6.  Who are they? [____________________]
-
-7.  Who is missing? [____________________]
-
-8.  Who might represent these missing groups? [____________________]
-
-9.  If you don't know, how can you find someone who might?
-    Network with who I know (NSBE/SHPE/AISES)
+    *   **Greg Wilson:**
+        This is going to have to be word of mouth and personal contact:
+	there isn't an organization yet that binds groups like this together
+	(or if there is, we haven't found it).
+	The [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
+	is a likely starting point as well.
