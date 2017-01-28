@@ -61,3 +61,7 @@ in science, technology, engineering, and mathematics.
 I see a loosely-knit group of people who care about getting people from under-represented communities into tech,
 who are organizing grassroots groups and/or working on innovative recruiting projects in companies,
 and who talk regularly online and meet once a year in person to exchange ideas and support one another.
+
+## Kat Barrett
+
+I see a group of curious and caring people at all skill levels who are working together to build a space where anyone can practice digital fabrication, woodworking, code, and electronics. 

@@ -112,3 +112,19 @@ What do we get rid of?
     making a list of what I accomplished the previous day.
     (I did this for several years at the suggestion of a therapist,
     and found it did help a little.)
+
+## Kat Barrett
+
+1. I'm quick to dismiss tasks that don't have immediate feedback. These tasks often involve more talking than doing, which I'm not a fan of.
+
+2. I am extremely action-oriented.
+
+3. I recognize some things take time and there are many conversations to be had in order for an action to be performed. I often want to go faster than my colleagues and get to the action as soon as possible, which can sometimes come across as forceful and degrading to their chosen process.
+
+4. I've tried meditating to learn how to be patient. Some days it helps, and some days I truly find it annoying. I think it's a good thing though, and something I have to diligently work towards. 
+
+5. Swapping out morning emails with meditation. 
+
+6. My mom. She cares so much about my wellbeing. 
+
+7. Each morning before I start my day.
