@@ -61,3 +61,7 @@ in science, technology, engineering, and mathematics.
 I see a loosely-knit group of people who care about getting people from under-represented communities into tech,
 who are organizing grassroots groups and/or working on innovative recruiting projects in companies,
 and who talk regularly online and meet once a year in person to exchange ideas and support one another.
+
+## Kate Hertweck
+
+I see a Software Carpentry Steering Committee that develops a clear vision for the values guiding the organization and model of leadership for how those values are communicated and implemented through policy.
