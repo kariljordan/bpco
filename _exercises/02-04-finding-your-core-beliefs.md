@@ -34,6 +34,24 @@ Comments: [____________________]
     *   Yes
     *   No
 
+## Ian Hawke
+
+1. Algorithms are powerful, and their use will only increase in the future.
+
+2. Mathematical training and scientific PR.
+
+3. Yes (although the future is hard to predict, let alone test).
+
+4. Yes.
+
+5. Historical data on the use and spread of algorithms and computation in society.
+
+6. Yes, although not to the depth that I would consider it a "proof".
+
+7. If we believe "with great power comes great responsibility", then increasing algorithmic power means we must take more responsibility for the algorithms and their potential consequences.
+
+8. I would expect others in the group to hold this belief.
+
 ## Greg Wilson
 
 1.  I believe in fairness,

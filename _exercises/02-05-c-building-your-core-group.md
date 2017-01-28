@@ -40,6 +40,29 @@ title: "Building Your Core Group"
 9.  If you don't know, how can you find someone who might?
     [____________________]
 
+## Ian Hawke
+
+1.  All of
+    * Ethical thinking about our code and algorithms is essential;
+    * Training in this is possible and should cover as many groups as possible;
+    * The answers will keep changing, so we must constantly re-evaluate what and how we train, and how we apply the lessons to our own work.
+
+2.  Recruitment, community building.
+
+3.  All research coding groups: in academia from UG up to professoriate, and in industry.
+
+4.  Those will to take part and deliver training will be representative.
+
+5.  No.
+
+6.  Right now I've only thought about academic people, mostly PGs and faculty.
+
+7.  Junior academics, industry.
+
+8.  Don't know yet.
+
+9.  Use contacts, word-of-mouth.
+
 ## Greg Wilson
 
 1.  The essential principle is belief that tech should be truly open to all,
