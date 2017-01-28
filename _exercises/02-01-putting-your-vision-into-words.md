@@ -65,3 +65,7 @@ and who talk regularly online and meet once a year in person to exchange ideas a
 ## Kate Hertweck
 
 I see a Software Carpentry Steering Committee that develops a clear vision for the values guiding the organization and model of leadership for how those values are communicated and implemented through policy.
+
+## Kat Barrett
+
+I see a group of curious and caring people at all skill levels who are working together to build a space where anyone can practice digital fabrication, woodworking, code, and electronics. 
