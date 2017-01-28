@@ -161,3 +161,15 @@ Comments: Given this is an organization already operating, continual assessment 
 1. Being your true self. Whether that means your capabilities, values, strengths, weaknesses, etc.
 
 2. Working with women who were afraid to be their true selves, especially when working with men. 
+
+## Rayna Harris
+
+I belive that there are too many exercises in this chapter, and that
+the GitHub way of collecting responses is technically challenging and
+cumbersome (except Kate somehow found a way to do it beautifully). I
+worry that by expressing my frustration,I might detract from anyone
+else's enthusiasm and joy for completing all of these exercise.
+
+One a more serious notes, none of the belief's written in the book or
+by the members of this group speak to me... I'm not sure what I belive
+in that would have an impact on the organizations in question...
