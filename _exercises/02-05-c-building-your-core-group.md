@@ -40,6 +40,27 @@ title: "Building Your Core Group"
 9.  If you don't know, how can you find someone who might?
     [____________________]
 
+## Jorge Aranda
+
+1. We have the power and the duty to help alleviate suffering.
+   We are not saints, and we all try to do good at different degrees according to our personal journeys.
+
+2. Legal help on how to set up gift matching programs. Fundraising. HR help. Outreach. Pretty much everything!
+
+3. Almost everybody in developed nations could help --- not split among racial nor occupational lines, as I see it
+
+4. N/A
+
+5. N/A
+
+6. N/A
+
+7. N/A
+
+8. N/A
+
+9. N/A
+
 ## Ian Hawke
 
 1.  All of

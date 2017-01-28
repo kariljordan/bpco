@@ -30,6 +30,26 @@ What do we get rid of?
     each day at [____________________] *(write in the time)*
     I will spend a few minutes reviewing how I am doing at changing this behavior.
 
+## Jorge Aranda
+
+1. I hate asking for help, delegating, or otherwise "bothering" people.
+
+2. This has made me to try to be self-sufficient and independent.
+
+3. I often get stuck on dumb stuff.
+   It makes me inefficient.
+   It makes it difficult for me to even dare think of forming a group.
+
+4. I can practice asking for help and advice more
+
+5. At the start, I'll be happy if I can think of one weekly instance when I asked for help
+
+6. My partner
+
+7. Each day at the start of my work hours I will spend a few minutes reviewing
+   my requests for help and advice,
+   as well as my attitude towards them.
+
 ## Ian Hawke
 
 1. Internal focus: solitary consideration of a problem and its solution without talking it through or checking it against external reality.

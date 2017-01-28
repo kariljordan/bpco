@@ -34,6 +34,24 @@ Comments: [____________________]
     *   Yes
     *   No
 
+## Jorge Aranda
+
+1. I believe that we can help alleviate suffering even through minor adjustments to our lifestyles
+
+2. Fairly recently, through research
+
+3. Yes, I have reflected on them
+
+4. Yes, these beliefs can be tested
+
+5. Through analysis of the soundness of effectiveness studies conducted by evaluators such as GiveWell
+
+6. Yes, and I have done so
+
+7. They give the group a sense of purpose
+
+8. Yes. It would be hard for other members to join the group without sharing this belief.
+
 ## Ian Hawke
 
 1. Algorithms are powerful, and their use will only increase in the future.

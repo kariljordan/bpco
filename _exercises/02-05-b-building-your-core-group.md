@@ -24,6 +24,20 @@ title: "Building Your Core Group"
 6.  Who has these?
     [____________________]
 
+## Jorge Aranda
+
+1. Outgoing people, people with a strong social network in my community
+
+2. Research skills, some personal experience and invested effort into frugality and charity work
+
+3. Persuasion, how to establish a long-lived group, negotiating group dynamics
+
+4. Salespeople, community organizers
+
+5. Knowledge of local social networks and power structures
+
+6. Politicians, well-established locals
+
 ## Ian Hawke
 
 1. A doer, and a persuader.
