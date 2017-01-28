@@ -55,7 +55,7 @@ are invited into communities where they can give and receive knowledge on
 a spectrum of topics that contribute to their growth as instructors, 
 researchers, and community leaders.  
 
-# Kari L. Jordan
+## Kari L. Jordan
 
 I see a school system that teaches team building, problem solving,
 critical thinking, and the fundamental skills needed to pursue careers

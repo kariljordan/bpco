@@ -188,7 +188,7 @@ I believe that...
 
 10. When I volunteer, I like to know *everything* and voice my opinion for improvement.
 
-# Kari L. Jordan
+## Kari L. Jordan
 
 1.  I am good at building confidence in people/helping people build confidence in themselves and their abilities. I'm good at pushing people to reach their potential.
 2.  My default mode of operation is think first, speak later.
