@@ -69,3 +69,9 @@ I see a Software Carpentry Steering Committee that develops a clear vision for t
 ## Kat Barrett
 
 I see a group of curious and caring people at all skill levels who are working together to build a space where anyone can practice digital fabrication, woodworking, code, and electronics. 
+
+## Rayna Harris
+
+I see an interdiscipinary research group that extends beyong the
+typical STEM fields that uses the best practice for conducting and
+disseminating reesarch at the highest standards of excellence.
