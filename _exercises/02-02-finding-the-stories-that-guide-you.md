@@ -11,10 +11,12 @@ This exercise is one way to start to learn and tell your story.
     Change that to: "I should do something about that!"
 
     [____________________]
+    Education system in which students who have better access to resources due to their background and who grow up in stable family environment have better changes to achieve more than students who do not have that. It is unfair but it is rarely being recognised by teachers and others involved in education.
 
 2.  Why does this subject matter to you?
 
     [____________________]
+    Because of my personal experiences. Because it can help others improve their lives.
 
 3.  Write down a story from your life that relates to your answers to Questions 1 and 2.
     Don't worry if it does not seem clear to you why you chose this particular story.
@@ -23,6 +25,7 @@ This exercise is one way to start to learn and tell your story.
     (Use a separate sheet of paper.)
 
     [____________________]
+    I thought I was too stupid to be a software developer because I didn't realize that the "programming superstars" I studied with had been learning and experimenting with software development for at least few years.
 
 4.  What does this story mean to you?
     Think about why you chose this story.
@@ -159,3 +162,7 @@ This exercise is one way to start to learn and tell your story.
 2. This matters to me because it turns people away from learning and creates unnecessary resentment.
 3. I've heard statments these and similar statments for years, and I think its really unnecessary. I look forward to a day when there are no bullies at the front of the classroom. 
 4. The thing I worry about is that I do can have strong opinions about how things should be done, and I would like to not turn into the professors I despise. 
+
+## Aleksandra Pawlik
+
+It has affected my study and career choices 

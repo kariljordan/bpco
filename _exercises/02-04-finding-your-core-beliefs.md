@@ -6,29 +6,33 @@ title: "Finding Your Core Beliefs"
 
 1.  What are some of the core beliefs I hold that apply to this group?
     [____________________]
+    Most, if not all, skills and knowledge can be developed. It is not a "gift" or "talent".
 
 2.  Where did I learn these beliefs?
     [____________________]
+    Software and Data Carpentry
 
 3.  Have I tested or reflected on the accuracy of these beliefs?
     *   Yes
-    *   No
+    
 
 4.  Can I test these beliefs now?
     *   Yes
-    *   No
+    
 
 5.  How can I test them?
     [____________________]
+    Discussions with people who believe otherwise (?)
 
 6.  Am I willing to do that?  (Or do I want to hold on to these beliefs no matter what?)
     *   Yes
-    *   No
+    
 
 Comments: [____________________]
 
 7.  How will these beliefs affect the group?
     [____________________]
+    I will always ask for *evidence* when challenging these beliefs.
 
 8.  Do other members of the group also share these beliefs?
     *   Yes
@@ -173,3 +177,7 @@ else's enthusiasm and joy for completing all of these exercise.
 One a more serious notes, none of the belief's written in the book or
 by the members of this group speak to me... I'm not sure what I belive
 in that would have an impact on the organizations in question...
+
+## Aleksandra Pawlik
+
+*   Yes (or at least I hope so)
