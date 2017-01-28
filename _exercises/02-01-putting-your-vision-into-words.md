@@ -5,7 +5,7 @@ title: "Putting Your Vision Into Words"
 ---
 
 What is your vision? A vision is a picture of where you want to
-go. Try one of the following as a guide. Just fill in the blanks:
+go. Try **one** of the following as a guide. Just fill in the blanks:
 
 *   I see a congregation that… [____________________]
 
@@ -19,7 +19,6 @@ go. Try one of the following as a guide. Just fill in the blanks:
 
 *   I see a (fill in the blank with whatever it is you are trying to change) where… [____________________]
 
-
 ## Katy Huff
 
 I have two because I'm indecisive.
@@ -29,3 +28,9 @@ I have two because I'm indecisive.
 - I see a self-sustaining proliferation of hyper-local communities of peer 
   learning who effectively share skills for best practices in scientific 
   computing. 
+
+## Greg Wilson
+
+I see a loosely-knit group of people who care about getting people from under-represented communities into tech,
+who are organizing grassroots groups and/or working on innovative recruiting projects in companies,
+and who talk regularly online and meet once a year in person to exchange ideas and support one another.
