@@ -23,6 +23,13 @@ go. Try **one** of the following as a guide. Just fill in the blanks:
 
 I see a group that helps people to work out whether they *should* do something with code as well as whether they *could*: to think about the societal consequences of building and using a research code.
 
+## Christina Koch
+
+I see a a Software/Data Carpentry mentoring ecosystem where individuals 
+are invited into communities where they can give and receive knowledge on 
+a spectrum of topics that contribute to their growth as instructors, 
+researchers, and community leaders.  
+
 ## Katy Huff
 
 I have two because I'm indecisive.

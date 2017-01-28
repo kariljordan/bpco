@@ -63,6 +63,38 @@ title: "Building Your Core Group"
 
 9.  Use contacts, word-of-mouth.
 
+## Christina Koch
+
+1. You are familiar with Software/Data Carpentry lessons and teaching practices 
+	(have read them, attended a workshop, helped or taught at a workshop).  
+	Your main goal is not to advance your own interests, but to work for 
+	the benefit of the community (acknowledging that these will sometimes overlap). 
+	Agreement to support and abide by the SWC/DC Code of Conduct.  
+
+2. Community support; People who can recruit
+
+3. People at all SWC/DC experience + involvement levels (new instructors, local 
+	community leaders, staff, steering committee members), from different geographical 
+	locations (esp. non-North America), and a diversity of academic institutions (research 
+	universities + small schools) 
+	and experiences (undergrad, maybe even high school thru late-career).  Representatives 
+	of organizations that advocate for underrepresented (race, gender, economic background) 
+	groups in science + tech.  
+
+4. Not sure what this question is asking - I'd say anyone who identifies with 
+	the labels I've described.  
+
+5. Within SWC/DC as a whole, probably most of them.  On the mentorship committee, no. 
+
+6. Current committee membership is a good start.  I know of others in the organization, 
+	not on the committee who could be representatives of these groups.  
+
+7. Organizations representing underrepresented groups (does that sentence even parse?)
+
+8. Belinda, Anelda, Kari, Raniere...
+
+9. Talk to the people above. 
+
 ## Greg Wilson
 
 1.  The essential principle is belief that tech should be truly open to all,

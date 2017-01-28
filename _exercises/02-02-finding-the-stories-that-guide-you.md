@@ -39,6 +39,34 @@ This exercise is one way to start to learn and tell your story.
 
 4. When my (or other researcher's) focus is narrow, looking to game the system and move on, I forget that teaching isn't about models or optimization, but about *people*. The same is too easily true of code: if the code matters, then it matters because it will change (in however small an amount) people's lives.
 
+## Christina Koch
+
+1. I feel passionately about removing barriers (primarily fear) from things 
+ I care about (belonging to communities, technology, mathematics).
+  Someone should do something about instructors/peers/community members who 
+  dismiss, belittle or obfuscate people who are trying to learn new things 
+  or participate in new ventures.  
+  
+2. I love these things! (tech, community, math)  It's sad to me that 
+	they're not available to people because of fear, discrimination, or lack 
+	of opportunity.  
+
+3. The year after college, I worked in Washington, DC and lived in a community 
+    house with 6 other women.  We had some similarities (all college-educated, mostly 
+    attended liberal-arts-like schools) but were also very different in temperment, 
+    personality, interests, activity level, neatness, etc.  We clicked as a 
+    house because we were all really committed to making it work and had some challenging 
+    conversations (and made some concessions).  One time I really saw our community in 
+    action is when one of my housemates was unexpectedly hospitalized.  We all went to visit her in 
+    shifts, even though it took an hour to get there on the bus or by bike.  And we 
+    didn't even really talk about whether we were going to do it or not - we just 
+    divided up the times and did it.  
+    
+4. Between that community experience and the people I worked with on a regular 
+    basis, I left DC with the strong feeling that all these people were "my people," 
+    not in a possessive or parental way, but in the sense that their lives mattered 
+    to me and my life mattered to them.  We were all equal in what we had to give. 
+
 ## Greg Wilson
 
 1.  I feel passionately that computing (and tech in general) should be accessible and welcoming to everyone.

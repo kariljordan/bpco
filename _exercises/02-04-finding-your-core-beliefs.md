@@ -52,6 +52,30 @@ Comments: [____________________]
 
 8. I would expect others in the group to hold this belief.
 
+## Christina Koch
+
+1. People want to be involved and connect with each other.  
+	Everyone should be able to participate; the only condition for participation is 
+	respect for others and willingness to listen.  
+	
+2. My own experience, watching others, learning about the need for community 
+	rules and expectations. 
+	
+3. Sort of - they were born out of observation and experience.  
+
+4. Yes
+
+5. Not sure...trying things out? Talk to other community leaders?
+
+6. My ultimate goal is to create a supportive community (see 7.) so if I could 
+	be shown that these beliefs do *not* help achieve that goal, I would be 
+	willing to consider alternatives.  However, given that these beliefs are 
+	intrinsic to what a supportive community is (in my mind), it would be a tough sell!  
+
+7. These beliefs will help the group be welcoming.  
+
+8. I think they should; as far as I know, they do. 
+
 ## Greg Wilson
 
 1.  I believe in fairness,
