@@ -19,3 +19,6 @@ title: "Crafting a Mission Statement"
     to make sure that everyone gets a chance to speak.
 7.  Then see what the three groups came up with.
 8.  Slowly see if you can craft a sentence that gets the agreement of everyone in the room.
+
+# Kari L. Jordan
+Right now I don't have a core group, but the mission of Engineer Like a Girl, Inc. is "to develop confident community leaders who are engineers for social change." I do have a few people that I've bounced ideas off of and who have agreed to be mentors, but I have not put together a steering committee/board of directors for my non-profit yet. 
